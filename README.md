@@ -72,4 +72,4 @@ console.log(finalResult);
 - You can check the implementation here: https://codepen.io/meamank/pen/oNNJwWo
 
 ## 8. Create a section displaying a user profile. It should display user info and also allow the user to upload a picture.
-- You can find this solution in this repository under the name " react-user-profile"
+- You can find this solution at https://github.com/meamank/react-user-profile
