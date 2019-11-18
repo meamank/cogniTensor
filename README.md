@@ -67,6 +67,12 @@ Object.keys(first).forEach((key,index) => {
 console.log(finalResult);
 ```
 
+- By definition, Object and Map are based on the same concept — using key-value for storing data but they are quite different from each other. 
+- Map has only one way to create, by using its built-in constructor and new syntax while object can be created in many ways.
+- Map is built-in iterable — Object is not.
+
+Generally my preferred method is to use map but when I have to work with JSON, I use object because JSON has direct support for object.
+
 ## 7. Write a piece of code for generating random color strings in javascript. Fill 12 square divs with these random colors (show generated color code on div) every time a button is clicked. Also, animate these divs (flipping the div or zooming in or out).
 
 - You can check the implementation here: https://codepen.io/meamank/pen/oNNJwWo
