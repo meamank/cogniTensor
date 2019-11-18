@@ -30,6 +30,7 @@ console.log(finalResult);
 
 ## 7. Write a piece of code for generating random color strings in javascript. Fill 12 square divs with these random colors (show generated color code on div) everytime a button is clicked. Also animate these divs (flipping the div or zooming in or out).
 
-
+- You can check the implemention here : https://codepen.io/meamank/pen/oNNJwWo
 
 ## 8. Create a section displaying user profile. It should display user info and also allow user to upload a picture.
+- You can find this solution in this repository under name " react-user-profile"
